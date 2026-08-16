@@ -2,8 +2,7 @@
   "name": "lemon-tycoon-app",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://hoanganhchung82015-dev.github.io/lemon-tycoon-app",
-  "type": "module",
+"homepage": "https://hoanganhchung82015-dev.github.io",  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
